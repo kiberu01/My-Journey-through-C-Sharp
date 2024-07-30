@@ -1,0 +1,7 @@
+D:\C-Sharp\C_sharp_projects\Console_Calculator\Console_Calculator\obj\Debug\Console_Calculator.csproj.AssemblyReference.cache
+D:\C-Sharp\C_sharp_projects\Console_Calculator\Console_Calculator\obj\Debug\Console_Calculator.csproj.CoreCompileInputs.cache
+D:\C-Sharp\C_sharp_projects\Console_Calculator\Console_Calculator\bin\Debug\Console_Calculator.exe.config
+D:\C-Sharp\C_sharp_projects\Console_Calculator\Console_Calculator\bin\Debug\Console_Calculator.exe
+D:\C-Sharp\C_sharp_projects\Console_Calculator\Console_Calculator\bin\Debug\Console_Calculator.pdb
+D:\C-Sharp\C_sharp_projects\Console_Calculator\Console_Calculator\obj\Debug\Console_Calculator.exe
+D:\C-Sharp\C_sharp_projects\Console_Calculator\Console_Calculator\obj\Debug\Console_Calculator.pdb
